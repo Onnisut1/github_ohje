@@ -54,4 +54,4 @@ githubin käytössä tarvittavia
 
 - git pull
 
-
+[Rotta pyörii](https://youtu.be/zvTWi0eAybk)
