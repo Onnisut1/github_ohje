@@ -1,5 +1,5 @@
 
-![alt text](/gitgithub kuva)
+![alt text](/gitgithub_kuva.png)
 ># **GITIN PERUSJUTSKAT**
 
 ### **Gitin yleisimpiä komentoja**  
